@@ -1,0 +1,213 @@
+nav{
+    background-color:rgba(18, 253, 253, 0.3); 
+    
+}
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header img{
+    height: 20px;
+    padding-top: 30px;
+    padding-left: 10px;
+    
+}
+
+nav h1{
+    padding-left: 10px;
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+nav ul{
+    font-weight: 400;
+    padding-bottom: 7px;
+    line-height: 30px;
+}
+.nav ul::before{
+    content: "";
+    border-radius: 30%;
+    background-color:rebeccapurple;
+    
+}
+nav p{
+    padding-left: 5px;
+    padding-bottom: 150px;
+}
+.b-text{
+    padding-left: 10px;
+background-color: rgba(255, 227, 193, 0.5);
+margin: 0;
+padding-bottom: 100px;
+
+}
+.b-text h1{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 50px;
+}
+.b-text p{
+padding-top: 20px;
+line-height: 25px;
+}
+.b-text button{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.c-text{
+    background-color: rgb(171, 220, 236);
+    margin-right: 10px;
+}
+.c-text img{
+ width: 330px;  
+ height: 200px;
+ padding-top:  20px; 
+  padding-left: 10px;
+  padding-bottom: 2px;
+}
+.c-text h2{
+    padding-left: 10px;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.c-text p{
+    padding-left: 10px;
+}
+.c2-text img{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+
+.c-text button{
+    margin: 10px;
+    background-color: rgba(37, 37, 233,0.3);
+    color: aliceblue;
+    width: 170px;
+    margin-bottom: 30px;
+}
+.c-text button:hover{
+    color: black;
+    background-color: aliceblue;
+    transition-duration: 2s
+}
+.d-text{
+padding-left: 10px;
+background-color: rgba(241, 236, 236, 0.5);
+}
+.d-text h1{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    
+}
+.d-text img{
+    width: 350px;
+    height: 500px;
+}
+.d2-text h2{
+    font-size: 30px;
+    text-align: center;
+}
+.d3-text{
+    background-color:rgba(173, 219, 235, 0.3);
+}
+.d3-text h2{
+    padding-left: 10px;
+}
+.d3-text p{
+    padding-left: 10px;
+    line-height: 25px;
+}
+.d3-text button{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+.d2-text p{
+    text-align: center;
+}
+.d-text h2{
+font-size: 30px;
+padding-top: 30px;
+padding-bottom: 20px;
+}
+.d4-text p{
+font-size: 20px;
+line-height: 30px;
+
+}
+.d5-text{
+    padding-top: 30px;
+    font-size: 10px;
+}
+.d5-text p{
+    font-size: 15px;
+}
+.d5-text span{
+    font-weight: 700;
+}
+.d6-text{
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+    width: 330px;
+    border: none;
+    margin-top: 30px;
+}
+.d6-text a{
+    color: white;
+    padding-bottom: 40px;
+}
+.d7-text img{
+    height: 300px;
+    width: 300px;
+    padding-top: 150px;
+}
+.d7-text a{
+    font-size: 25px;
+    color: rgb(194, 169, 30);
+    padding-bottom: 30px;
+    
+}
+.d7-text h3{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.d7-text ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 25px;
+    font-weight: 600;
+}
+.d8-text p{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 18px;
+    color: lightslategray;
+}
+.d8-text p span{
+    color: black;
+}
+@media(min-width:1024px){
+
+}
+
